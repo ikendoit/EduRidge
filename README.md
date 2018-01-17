@@ -1,0 +1,2 @@
+# EduRidge
+EduRidge App
