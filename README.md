@@ -2,8 +2,8 @@
 A system that generates a transferability report between BC post-secondary institutions.
 
 ### Project Leader
-Kien Nguyen [@ikendoit]
+[Kien Nguyen](https://github.com/ikendoit)
 
 ### Team Members
-- Kien
-- Griffin
+- Kien Nguyen
+- Griffin Pfenniger
