@@ -106,4 +106,4 @@ const Menu = DrawerNavigator({
   //   screen: Settings,
   // },
   });
-AppRegistry.registerComponent('CourseHelper', () => Menu)
+AppRegistry.registerComponent('EduRidge', () => Menu)
