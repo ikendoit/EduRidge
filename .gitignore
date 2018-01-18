@@ -1,9 +1,9 @@
 android/ 
 ios/
 node_modules/
-.flowconfig
-.watchmanconfig
-.babelrc
+./.flowconfig
+./.watchmanconfig
+./.babelrc
 ./App.js
 .expo/
 __tests__/
