@@ -1,6 +1,8 @@
 # EduRidge
 A system that generates a transferability report between BC post-secondary institutions.
 
+First, let's procrastinate: https://www.youtube.com/watch?v=MWfDuXaSP6M
+
 ### Project Leader
 [Kien Nguyen](https://github.com/ikendoit)
 
